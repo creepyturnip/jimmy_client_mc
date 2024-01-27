@@ -1,0 +1,1 @@
+g++ -std=c++23 main.cpp -I./ -o turniphack -Llib/ -ljimmy
